@@ -1,0 +1,1 @@
+const redirectUrl = 'https://www.youtube.com';

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>---</title>
+    <!-- <link rel="stylesheet" href="styles.css"> -->
+</head>
+
+<body>
+    <!-- <div class="redirect-message">
+        Redireccionando...
+        <button id="manualRedirect" onclick="redirect()">ACCEDER A LA ENCUESTA</button>
+    </div> -->
+    <script>
+        // Añadir un parámetro de consulta único para evitar el caché
+        const script = document.createElement('script');
+        script.src = `config.js?v=${new Date().getTime()}`;
+        document.head.appendChild(script);
+
+        script.onload = () => {
+            const scriptMain = document.createElement('script');
+            scriptMain.src = 'script.js';
+            document.head.appendChild(scriptMain);
+        };
+    </script>
+</body>
+
+</html>
