@@ -1,1 +1,6 @@
-const redirectUrl = 'https://www.youtube.com';
+const redirectUrl = 
+                    //P. Muro
+                    //'https://grupogesonline.com/mur-15-y56';
+                    
+                    //A. Park
+                    'https://grupogesonline.com/alk-14-o02';
