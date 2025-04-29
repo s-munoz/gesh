@@ -5,5 +5,8 @@ const redirectUrl =
                     //A. Park
                     //'https://grupogesonline.com/alk-14-o02';
 
+                    //Ciudad Blanca
+                    'https://grupogesonline.com/bln-73-74u';
+
 //prueba
-'http://youtube.com';
+//'http://youtube.com';
