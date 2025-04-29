@@ -6,4 +6,4 @@ const redirectUrl =
                     //'https://grupogesonline.com/alk-14-o02';
 
 //prueba
-'youtube.com';
+'http://youtube.com';
