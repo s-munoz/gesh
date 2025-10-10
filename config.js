@@ -8,11 +8,11 @@ const redirectUrl =
 
                     //A. Park
   
-                    'https://grupogesonline.com/alk-14-x23';
+                    //'https://grupogesonline.com/alk-14-x23';
 //'https://grupogesonline.com/aba-17-51p';
 
                     //Ciudad Blanca
-                    //'https://grupogesonline.com/bln-73-74u';
+                    'https://grupogesonline.com/bln-73-74u';
 
 //'https://grupogesonline.com/pmv-107-s33';
 
