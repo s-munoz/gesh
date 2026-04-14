@@ -4,8 +4,8 @@ const redirectUrl =
 
 //'https://grupogesonline.com/pmv-107-s33';
                     //A. Playa
-                    //'https://grupogesonline.com/abh-18-e99';
-'https://grupogesonline.com/alk-14-x23'
+                    'https://grupogesonline.com/abh-18-e99';
+//'https://grupogesonline.com/alk-14-x23'
                     //A. Park
   
                     //'https://grupogesonline.com/alk-14-x23';
