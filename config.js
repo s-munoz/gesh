@@ -7,8 +7,8 @@ const redirectUrl =
                     //'https://grupogesonline.com/abh-18-e99';
 //'https://grupogesonline.com/alk-14-x23'
                     //A. Park
-  
-'https://grupogesonline.com/bln-73-74u'
+'https://grupogesonline.com/aba-17-51p';
+//'https://grupogesonline.com/bln-73-74u'
 
                     //'https://grupogesonline.com/alk-14-x23';
 //'https://grupogesonline.com/aba-17-51p';
