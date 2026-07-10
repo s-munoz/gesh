@@ -19,7 +19,7 @@ const redirectUrl =
                     //C. Blanca
                     //'https://grupogesonline.com/bln-73-74u';
 
-//'https://grupogesonline.com/pmv-107-s33';
+'https://grupogesonline.com/pmv-107-s33';
 
 //prueba
 //'http://youtube.com';
