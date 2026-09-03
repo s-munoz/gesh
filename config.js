@@ -2,7 +2,7 @@ const redirectUrl =
                     //P. Muro
                     //'https://grupogesonline.com/mur-15-y56';
 
-'https://grupogesonline.com/mur-15-5k2';
+//'https://grupogesonline.com/mur-15-5k2';
                     //A. Playa
 
 //'https://grupogesonline.com/abh-18-e99';
@@ -17,7 +17,7 @@ const redirectUrl =
 //'https://grupogesonline.com/aba-17-51p';
 
                     //C. Blanca
-                    //'https://grupogesonline.com/bln-73-74u';
+                    'https://grupogesonline.com/bln-73-74u';
 
 //'https://grupogesonline.com/pmv-107-s33';
 
