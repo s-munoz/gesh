@@ -2,14 +2,14 @@ const redirectUrl =
                     //P. Muro
                     //'https://grupogesonline.com/mur-15-y56';
 
-//'https://grupogesonline.com/mur-15-5k2';
+'https://grupogesonline.com/mur-15-5k2';
                     //A. Playa
 
 //'https://grupogesonline.com/abh-18-e99';
                     //'https://grupogesonline.com/abh-18-e99';
 //'https://grupogesonline.com/alk-14-x23'
                     //A. Park
-'https://grupogesonline.com/aba-17-51p';
+//'https://grupogesonline.com/aba-17-51p';
 
 //'https://grupogesonline.com/bln-73-74u'
 
